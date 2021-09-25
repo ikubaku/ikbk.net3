@@ -1,0 +1,19 @@
+= ikbk.net3
+
+My public website
+
+== Prerequisites
+* node
+* gatsby-cli
+
+== Develop
+[source, shell]
+----
+$ gatsby develop
+----
+
+== Deploy
+TBD
+
+== License
+TBD
