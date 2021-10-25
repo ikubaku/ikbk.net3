@@ -3,5 +3,7 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "ikbk.net",
   },
-  plugins: [],
+    plugins: [
+        'gatsby-plugin-postcss',
+    ],
 };
